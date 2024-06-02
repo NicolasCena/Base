@@ -2,7 +2,7 @@
 
 export const Lazy1 = () => {
   return (
-    <div>
+    <div className=" flex justify-center items-center h-screen ">
       LAZY 1
     </div>
   )
