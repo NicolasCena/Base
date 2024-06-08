@@ -2,7 +2,7 @@ import Navigation from '../routes/Navigation'
 
 const Menu = () => {
   return (
-    <div>
+    <div className='app-container'>
       <Navigation />
     </div>
   )
